@@ -1,2 +1,2 @@
 # bonzimusicschool
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
