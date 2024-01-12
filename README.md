@@ -1,2 +1,2 @@
 # bonzimusicschool
-theme: jekyll-theme-architect
+theme: jekyll-theme-catbook
